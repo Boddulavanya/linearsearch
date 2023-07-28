@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\bin\Debug\ConAppLinearsearch.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\bin\Debug\ConAppLinearsearch.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\bin\Debug\ConAppLinearsearch.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\obj\Debug\ConAppLinearsearch.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\obj\Debug\ConAppLinearsearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\obj\Debug\ConAppLinearsearch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\obj\Debug\ConAppLinearsearch.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppLinearsearch\ConAppLinearsearch\obj\Debug\ConAppLinearsearch.pdb
